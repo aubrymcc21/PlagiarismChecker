@@ -1,5 +1,3 @@
-# Plagiarism-checker-Python
-
 Creator: Aubry McConnell
 
 Project Title: PlagiarismChecker
