@@ -1,8 +1,8 @@
-Creator: Aubry McConnell
+#### Creator: Aubry McConnell
 
-Project Title: PlagiarismChecker
+#### Project Title: PlagiarismChecker
 
-Date: June 12, 2022
+#### Date: June 12, 2022
 
 This program detects plagiarism between two text documents using cosine similarity. This is done by turning the raw text data into vectors of numbers, then comparing the vectors to compute the similarity between the two.
 
